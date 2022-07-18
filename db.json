@@ -1,0 +1,209 @@
+{
+  "inboxLetters": [
+    {
+      "id": 14,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "1 Jun",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 13,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "18 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 12,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "18 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 11,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 10,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 9,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 8,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 7,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 6,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 5,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 0,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "14 Apr",
+      "type": "inboxLetters"
+    }
+  ],
+  "sentLetters": [
+    {
+      "id": 2,
+      "autor": "Dwight Schrute",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "14 Apr",
+      "type": "sentLetters"
+    }
+  ],
+  "draftLetters": [
+    {
+      "id": 3,
+      "autor": "Pam Beesly",
+      "letter": "test test",
+      "date": "14 Apr",
+      "type": "draftLetters"
+    }
+  ],
+  "remoteLetters": [],
+  "spamLetters": [
+    {
+      "id": 1,
+      "autor": "Jim Halpert",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "14 Apr",
+      "type": "spamLetters"
+    }
+  ],
+  "allLetters": [
+    {
+      "id": 14,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "1 Jun",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 13,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "18 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 12,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "18 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 11,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 10,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 9,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 8,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 7,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 6,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 5,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "15 Apr",
+      "type": "inboxLetters"
+    },
+    {
+      "id": 0,
+      "autor": "Michael Scott",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "14 Apr",
+      "type": "inboxletters"
+    },
+    {
+      "id": 2,
+      "autor": "Dwight Schrute",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "14 Apr",
+      "type": "sentLetter"
+    },
+    {
+      "id": 3,
+      "autor": "Pam Beesly",
+      "letter": "test test",
+      "date": "14 Apr",
+      "type": "draftLetters"
+    },
+    {
+      "id": 1,
+      "autor": "Jim Halpert",
+      "letter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus, sem in pellentesque tincidunt, nisi libero commodo urna, et commodo ex ex id est. Curabitur euismod vitae libero quis commodo. Etiam in facilisis augue, at tempor est. Nullam ac tellus tellus. Aliquam quis urna sed sem dictum molestie nec non mi. Proin cursus lectus eu velit bibendum dignissim. Donec auctor vitae turpis sit amet aliquam.",
+      "date": "14 Apr",
+      "type": "spamLetters"
+    }
+  ]
+}

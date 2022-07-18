@@ -1,0 +1,9 @@
+.app {
+    display: flex;
+    min-height: 100vh
+}
+
+.app_wrapper {
+    width: calc(70% - 30px);
+    padding: 10px;
+}

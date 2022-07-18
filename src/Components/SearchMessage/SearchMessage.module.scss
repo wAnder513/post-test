@@ -1,0 +1,26 @@
+.search {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+
+.search_input {
+    border: 1px solid rgb(0, 162, 255);
+  margin-right: 5px;
+}
+
+.search_button {
+  &:disabled {
+    cursor: default;
+    color: #fff;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: #0099ff;
+  }
+}
+
+.search_link {
+    color: #fff;
+}

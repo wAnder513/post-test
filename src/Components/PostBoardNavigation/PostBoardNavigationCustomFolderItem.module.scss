@@ -1,0 +1,52 @@
+.folder {
+  margin-bottom: 10px;
+}
+
+.folder_input,
+.folder_button {
+  margin-right: 5px;
+}
+
+.folder_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.folder_link {
+  width: 60%;
+  padding: 5px;
+  border-radius: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  &:hover,
+  &:focus {
+    background-color: rgb(1, 108, 141);
+  }
+}
+
+.folder_remote {
+  background-color: darkred;
+
+  &:hover,
+  &:focus {
+    background-color: rgb(85, 5, 5);
+  }
+}
+
+.folder_link {
+  font-size: 24px;
+}
+
+.folder_button {
+  width: 100px;
+}
+
+.folder_edit {
+  margin-right: 5px;
+}
+
+.folder_input {
+  width: 110px;
+}
