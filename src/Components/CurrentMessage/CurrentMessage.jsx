@@ -9,15 +9,14 @@ const setLetterDelete = () => {
 
 const CurrentMessage = () => {
   return (
-    <div>
+    <div className={classes.message}>
       <div className={classes.message_info}>
         <div>autor: {post.currentMessage.autor}</div>
         <div className={classes.message_date}>{post.currentMessage.date}</div>
       </div>
 
       <div className={classes.message_letter}>{post.currentMessage.letter}</div>
-      <button onClick={() => setLetterDelete()}>remote</button>
-      <button>Send to spam</button>
+      <button className={classes.message_remote} onClick={() => setLetterDelete()}>remote</button>
     </div>
   );
 };

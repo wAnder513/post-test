@@ -1,15 +1,32 @@
+.message {
+  display: flex;
+  flex-direction: column;
+}
+
 .message_info {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
 }
 
 .message_date {
-    font-size: 14px;
-    color: grey;
+  font-size: 14px;
+  color: grey;
 }
 
 .message_letter {
-    font-size: 16px;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.message_remote {
+  background-color: darkred;
+  margin-left: auto;
+  width: max-content;
+
+  &:focus,
+  &:hover {
+    background-color: rgb(113, 3, 3);
+  }
 }
